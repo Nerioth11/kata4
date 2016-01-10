@@ -1,7 +1,6 @@
 
 package kata4_3;
 
-import java.io.FileNotFoundException;
 import java.util.ArrayList;
 
 public class Kata4_3 {
